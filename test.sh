@@ -1,4 +1,5 @@
 id
-echo "This is Jenkins FreeStyle Job"
+echo "Successfully inter into Git repo"
+echo "This is Jenkins CICD FreeStyle Job"
 printenv
 ls -ltr
